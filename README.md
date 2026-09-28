@@ -11,7 +11,7 @@ Responsive company website based on the ICG Advisory company presentation.
 
 ## GitHub Pages
 
-Publish from the `main` branch, root directory, in **Settings â†’ Pages â†’ Deploy from a branch**. All links are relative, so the site also works under a project URL.
+Publish from the `main` branch, root directory, in **Settings > Pages > Deploy from a branch**. All links are relative, so the site also works under a project URL.
 
 No build step, packages, tracking, cookies, external fonts or third-party scripts are required. No enquiry form collects or sends visitor data.
 
